@@ -1,5 +1,6 @@
 {
-  "version": "1.0.0",
-  "sha256": "placeholder_sha256_value",
-  "last_check": "2026-03-04T10:00:00Z"
+  "version": "1.0.1",
+  "sha256": "8a7d526b228ded795be15a71c97c65f1c0010ab9aee6dcbbf124172b0ae73462",
+  "update_url": "https://github.com/user-attachments/files/25733901/update.tar.gz",
+  "last_check": "2026-03-04T12:00:00Z"
 }
